@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1031114706961",
+    "firebase_url": "https://praktikum-c9194.firebaseio.com",
+    "project_id": "praktikum-c9194",
+    "storage_bucket": "praktikum-c9194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031114706961:android:1a74c036b67f2d49",
+        "android_client_info": {
+          "package_name": "com.example.muhammadfarhan.farhan_1202144152_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031114706961-st9lpbtoithrnjjatiobh5ai9s09ec00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHAZMFox7Piz5l7W5FxmaLqVOAsZ4hKJc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
